@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="./images/go-seeklogo.com.svg" align="center" alt="Golang logo" />
+ <img width="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/go.svg" align="center" alt="Golang logo" />
  <h2 align="center">Profile</h2>
 </p>
 
@@ -9,7 +9,7 @@
   <img align="left" alt="Utkarsh's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.codechef.com/users/utk_2003">
-  <img align="left" alt="Utkarsh's CodeChef" width="22px" src="./images/codechef.svg" />
+  <img align="left" alt="Utkarsh's CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" />
 <a href="https://leetcode.com/usutk/">
   <img align="left" alt="Utkarsh's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
