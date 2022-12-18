@@ -1,6 +1,6 @@
 <p align="center">
 <h2 align="center">Profile</h2>
- <img width="100px" src="https://github.com/UtkarshSaxenautk/UtkarshSaxenautk/blob/main/images/go.svg" align="center" alt="Golang logo" />
+ <img width="100px" src="https://raw.githubusercontent.com/UtkarshSaxenautk/UtkarshSaxenautk/master/images/go.png" align="center" alt="Golang logo" />
  
 </p>
 
