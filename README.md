@@ -1,6 +1,7 @@
 <p align="center">
- <img width="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/go.svg" align="center" alt="Golang logo" />
- <h2 align="center">Profile</h2>
+<h2 align="center">Profile</h2>
+ <img width="100px" src="https://github.com/UtkarshSaxenautk/UtkarshSaxenautk/blob/main/images/go.svg" align="center" alt="Golang logo" />
+ 
 </p>
 
 ### Hi there 👋 I am [Utkarsh Saxena](https://github.com/UtkarshSaxenautk)
