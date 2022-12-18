@@ -36,6 +36,7 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 <div><p>My profile overview: </p></div>
 
 ![Utkarsh's github stats](https://github-readme-stats.vercel.app/api?username=UtkarshSaxenautk&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
 <br />
 <br />
 <br />
