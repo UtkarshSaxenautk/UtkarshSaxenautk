@@ -1,6 +1,8 @@
 <p align="center">
 <h2 align="center">Profile</h2>
  <img width="100px" src="https://user-images.githubusercontent.com/82103333/208361205-8a595eba-c091-4aeb-becd-5b897913ebae.png" align="center" alt="Golang logo" />
+ <img width="100px" src="https://user-images.githubusercontent.com/82103333/208362695-a5d94e2c-8952-42f7-be68-7fce1ead1fd5.png" align="center" alt="Js logo" />
+ <img width="100px" src="https://user-images.githubusercontent.com/82103333/208362845-117d5ae8-2948-4cdf-af43-cc24e1fcfb3c.png" align="center" alt="C++ logo" />
  
 </p>
 
@@ -43,17 +45,13 @@ I am 20 years old and I am of student of Computer Science Engineering at I.K. Gu
 
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ApurvShah007&repo=Algorithmic-Trading)](https://github.com/UtkarshSaxenautk/Chat_Room)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apurvshah007&repo=portfolio-optimizer)](https://github.com/ApurvShah007/portfolio-optimizer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragJhawar&repo=ProjectReward)](https://github.com/ChiragJhawar/ProjectReward)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
+[Chat Room](https://github.com/UtkarshSaxenautk/Chat_Room)
+[Booking Site](https://github.com/UtkarshSaxenautk/Booking-Site)
 
 <br />
 
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-
 </details>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=UtrkarshSaxenautk.UtkarshSaxenautk)
 
-Leave a ⭐️ if you like this template and want to modify it for yourself!
+Leave a ⭐️ if you like profile
