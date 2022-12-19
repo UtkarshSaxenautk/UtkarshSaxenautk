@@ -1,9 +1,10 @@
 <p align="center">
 <h2 align="center">Profile</h2>
+<div>
  <img width="100px" src="https://user-images.githubusercontent.com/82103333/208361205-8a595eba-c091-4aeb-becd-5b897913ebae.png" align="center" alt="Golang logo" />
  <img width="100px" src="https://user-images.githubusercontent.com/82103333/208362695-a5d94e2c-8952-42f7-be68-7fce1ead1fd5.png" align="center" alt="Js logo" />
  <img width="100px" src="https://user-images.githubusercontent.com/82103333/208362845-117d5ae8-2948-4cdf-af43-cc24e1fcfb3c.png" align="center" alt="C++ logo" />
- 
+ </div>
 </p>
 
 ### Hi there 👋 I am [Utkarsh Saxena](https://github.com/UtkarshSaxenautk)
