@@ -24,7 +24,7 @@
 <div>
  <p>
 
-I am 20 years old and I am of student of Computer Science Engineering at I.K. Gujral Punjab Technical University, Jalandhar. I am deeply interested in Algorithms and Problem Solving. I am also interested in software development and API Engineering to make pwerful developer tools for others. I aspire to wrk for some company and develop software that has a positive impace pn Society.
+I am 20 years old and I am of student of Computer Science Engineering at I.K. Gujral Punjab Technical University, Jalandhar. I am deeply interested in Algorithms and Problem Solving. I am also interested in software development and API Engineering to make powerful developer tools for others. I aspire to work for some company and develop software that has a positive impact on Society.
 
 </h4>
 </div>
