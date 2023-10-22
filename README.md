@@ -31,7 +31,7 @@ I am 20 years old and I am of student of Computer Science Engineering at I.K. Gu
 
 <div><p>My profile overview: </p></div>
 
-![Utkarsh's github stats](https://github-readme-stats.vercel.app/api?username=UtkarshSaxenautk&show_icons=true)
+![Utkarsh's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=utkarshsaxenautk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 <br/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshSaxenautk&count_private=false&hide=html,scss,,ejs&theme=dracula&line_height=10">
